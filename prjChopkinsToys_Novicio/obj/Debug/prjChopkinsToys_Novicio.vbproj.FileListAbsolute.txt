@@ -1,0 +1,12 @@
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\bin\Debug\prjChopkinsToys_Novicio.exe.config
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\bin\Debug\prjChopkinsToys_Novicio.exe
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\bin\Debug\prjChopkinsToys_Novicio.pdb
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\bin\Debug\prjChopkinsToys_Novicio.xml
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\obj\Debug\prjChopkinsToys_Novicio.vbprojAssemblyReference.cache
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\obj\Debug\prjChopkinsToys_Novicio.Form1.resources
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\obj\Debug\prjChopkinsToys_Novicio.Resources.resources
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\obj\Debug\prjChopkinsToys_Novicio.vbproj.GenerateResource.cache
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\obj\Debug\prjChopkinsToys_Novicio.vbproj.CoreCompileInputs.cache
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\obj\Debug\prjChopkinsToys_Novicio.exe
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\obj\Debug\prjChopkinsToys_Novicio.xml
+C:\Users\yanna\source\repos\prjChopkinsToys_Novicio\prjChopkinsToys_Novicio\obj\Debug\prjChopkinsToys_Novicio.pdb
